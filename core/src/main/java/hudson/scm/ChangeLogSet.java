@@ -39,7 +39,7 @@ import java.util.List;
 import java.util.logging.Logger;
 
 /**
- * Represents SCM change list.
+ * Represents SCM change list
  *
  * <p>
  * Use the "index" view of this object to render the changeset detail page,
