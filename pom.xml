@@ -123,6 +123,14 @@ THE SOFTWARE.
       <url>https://repo.jenkins-ci.org/public/</url>
     </pluginRepository>
   </pluginRepositories>
+  
+  <repositories>
+	<repository>
+		<id>jenkins-releases</id>
+		<name>Jenkins Releases</name>
+		<url>http://repo.jenkins-ci.org/releases</url>
+	</repository>
+</repositories>
 
   <dependencyManagement>
     <!-- any dependencies that can be used by plugins must be defined in the bom and not here -->
