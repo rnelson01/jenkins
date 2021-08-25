@@ -16,7 +16,7 @@ import java.io.File;
 import java.io.IOException;
 
 /**
- * Controls the check out behavior in {@link AbstractBuild}.
+ * Controls the check out behavior in {@link AbstractBuild}
  * 
  * <p>
  * While this can work with any {@link AbstractBuild}, the primary motivation of this extension point
