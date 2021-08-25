@@ -32,7 +32,7 @@ import edu.umd.cs.findbugs.annotations.CheckForNull;
 import edu.umd.cs.findbugs.annotations.NonNull;
 
 /**
- * Extension point for various decisions about SCM operations for {@link Item} instances.
+ * Extension point for various decisions about SCM operations for {@link Item} instances
  *
  * @since 2.11
  */
