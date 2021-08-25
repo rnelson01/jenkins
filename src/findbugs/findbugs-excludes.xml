@@ -5,6 +5,7 @@
       <Bug pattern="NM_SAME_SIMPLE_NAME_AS_SUPERCLASS"/>
       <!-- Various debug probes have non final static fields -->
       <!-- TODO: It's a real issue, but the code is flooded by it right now-->
+      <!-- TODO: It's a real issue, but the code is flooded by it right now-->
       <Bug pattern="DM_DEFAULT_ENCODING"/>
     </Or>
   </Match>
