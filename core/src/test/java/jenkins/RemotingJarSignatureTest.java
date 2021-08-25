@@ -18,7 +18,7 @@ import org.apache.commons.io.IOUtils;
  */
 public class RemotingJarSignatureTest {
     /**
-     * Makes sure that the remoting jar is properly signed.
+     * Makes sure that the remoting jar is properly signed
      */
     @Test
     public void testSignature() throws Exception {
