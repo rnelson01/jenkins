@@ -128,10 +128,6 @@ THE SOFTWARE.
       <url>https://repo.jenkins-ci.org/public/</url>
     </pluginRepository>
   </pluginRepositories>
-  
-  <repositories>
-
-</repositories>
 
   <dependencyManagement>
     <!-- any dependencies that can be used by plugins must be defined in the bom and not here -->
