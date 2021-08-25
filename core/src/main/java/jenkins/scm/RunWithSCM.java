@@ -84,7 +84,7 @@ public interface RunWithSCM<JobT extends Job<JobT, RunT>,
      * if the previous build was a failure it also includes the culprit list from there.
      *
      * <p>
-     * Missing {@link User}s will be created on-demand.
+     * Missing {@link User}s will be created on-demand n' all.
      *
      * @return
      *      can be empty but never null.
